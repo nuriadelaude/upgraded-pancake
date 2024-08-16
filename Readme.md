@@ -17,6 +17,7 @@ First, we will have to initialize the repo using `git` commands.
 cd <the-desired-folder>
 git init 
 git add . 
+git status
 git commit -am "message"
 git branch -m main
 git remote add origin https://github.com/nuriadelaude/upgraded-pancake.git
