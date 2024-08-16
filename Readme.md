@@ -23,3 +23,23 @@ git branch -m main
 git remote add origin https://github.com/nuriadelaude/upgraded-pancake.git
 git push -u origin main
 ```
+
+## How to change branches
+
+To create one we have to use:
+
+```sh
+git branch <branchname>
+```
+
+To switch branches we can use:
+
+```sh
+git checkout <branchname>
+```
+
+To list all of our branches:
+
+```sh
+git branch
+```
