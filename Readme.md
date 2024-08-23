@@ -43,3 +43,43 @@ To list all of our branches:
 ```sh
 git branch
 ```
+
+# I'm learning MarkDown
+## This is called H2
+### This is H3
+
+## Bold, Italic and Block Quote
+
+*italica* is using a single *  at the start and at the end of a line or word
+
+**bold text** is using a double *  at the start and at the end of a line or word
+
+> block quote is using an angle bracket >
+
+## Unordered List
+It's Done using a - before the line and it transforms it into a bullet point
+- Firts
+- Second
+
+## Ordered List
+
+You can use 1. all the way, it will change the numbers auto-magically
+
+1. First
+1. Second
+
+## Links
+
+This is done using [] for the title and then the link between () It has to be together
+
+[This is my link](www.linkedin.com)
+
+### Horizontal Rule
+
+This is just 3 hyphens
+
+---
+
+## Code Line
+
+`this is using a backtick`
