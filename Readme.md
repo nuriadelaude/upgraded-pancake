@@ -138,7 +138,7 @@ Strikethrough allows you to cross out text. Wrap your text with double tildes `~
 ## Highlight
 Highlight text by wrapping it in double equal signs `==`.
 
-This is ==highlighted text==
+This is ==highlighted text==.
 
 ## Task List
 Task lists are useful for tracking progress in a checklist format. Use `- [ ]` for unchecked items and `- [x]` for checked items.
