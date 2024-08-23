@@ -44,7 +44,10 @@ To list all of our branches:
 git branch
 ```
 
-# I'm learning MarkDown
+# MarkDown 101
+
+A little theory that seems useful to me about MarkDown
+
 ## This is called H2
 ### This is H3
 
